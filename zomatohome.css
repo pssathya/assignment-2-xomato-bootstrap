@@ -253,3 +253,11 @@ footer{
         background-color:rgb(231, 182, 168);
     }
 }
+
+.container-fluid{
+    height:60px;
+    background-color:#f18c44;
+    /* position:sticky; */
+    width:100%
+    /* border:2px solid red */
+}
